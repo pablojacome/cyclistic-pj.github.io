@@ -7,7 +7,7 @@ The director of marketing from Cyclistic believes the company’s future success
 
 ### Statement of business task:
 
-Identify the differences in the use of Cyclistic between casual and member riders in order to launch a marketing campaign aimed to casual riders that allows them convert into member riders.
+To identify the differences in the use of Cyclistic between casual and member riders in order to launch a marketing campaign aimed to casual riders that allows them to convert into member riders.
 
 ### Data sources used:
 
@@ -19,4 +19,16 @@ Identify the differences in the use of Cyclistic between casual and member rider
 
 ### Data cleaning and manipulation:
 
+1) The cleaning, manipulation and analysis process was performed in SQL Server. This was because of the large amount of data.
+2) I used the TRIM() function in order to remove any space character in the Station Name Column.  
+4) During cleaning and manipulation process I made the following assumptions:
+5.1) Remove all NULL values. Under my perspective this rows wouldn't contribute to the analysis.
+6.2) After calculating the ride length and the distances covered by each ride, I realized there were inconsistent data. Like taking more than two days to travel less than 1 kilometer. Under this situation I searched for the average speed of a normal rider (10 km/h). So, using the velocity equation
+(velocity = distance/time) I removed all those information that didn't match the physics logic. 
+
+Note: you can check the sql code attached to this file. 
+
+### Data analysis:
+
+1) 
 
