@@ -152,7 +152,7 @@ END AS inconsistent_data
 FROM #FinalTable3
 ) a
 
---  7) Discard "Inusual" Behavior and create a new table
+--  7) Discard "Unusual" Behavior and create a new table
 SELECT *
 INTO #CompleteDataset
 FROM(
