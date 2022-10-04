@@ -44,7 +44,16 @@ https://public.tableau.com/views/CapstoneGoogleDataAnalytics/Dashboard12?:langua
 ### Recommendations:
 
 After all the analysis process executed, I recommend to the marketing agency:
+
 1) Launch annual membership discount campaigns during the summer. Since this is the season where there is the greatest demand for either casual and member riders.
-2) Any type of campaign pretended must be conducted from the stations: Streeter Dr & Grand Ave, DuSable Lake Shore Dr & North Blvd and DuSable Lake Shore Dr & Monroe St. Since those stations are the most popular by casual riders.
+
+3) Any type of campaign that is intended to be launched must be carried out from the stations:
+
+- Streeter Dr & Grand Ave
+- DuSable Lake Shore Dr & North Blvd 
+- DuSable Lake Shore Dr & Monroe St
+
+Since those stations are the most popular by casual riders.
+
 3) Casual riders show greater interest in the use of bicycles on Sundays and Mondays. It would be a good idea to have a rapprochement with them during these days.
 
