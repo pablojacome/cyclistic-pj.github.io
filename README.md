@@ -30,5 +30,21 @@ Note: you can check the sql code attached to this file.
 
 ### Data analysis:
 
-1) 
+1) Determine the total number of rides during the period of time selected. Aggregate functions like AVG(), MAX() and MIN() were used. It was GROUPED BY type of rider.
+2) Determine the different behavior between month of the year and type of rider.
+3) Determine the different behavior between day of the week and type of rider.
+4) Determine the different behavior between location and type of rider. 
+5) Summarize the whole analysis into a unique table grouped by tipe of rider, rideable type, day of the week, month of year and station name. 
+
+### Visualization:
+
+1) The Visualization process was performed in Tableau Public. Click on the following link to visualize it:
+https://public.tableau.com/views/CapstoneGoogleDataAnalytics/Dashboard12?:language=es-ES&:display_count=n&:origin=viz_share_link
+
+### Recommendations:
+
+After all the analysis process executed, I recommend to the marketing agency:
+1) Launch annual membership discount campaigns during the summer. Since this is the season where there is the greatest demand for either casual and member riders.
+2) Any type of campaign pretended must be conducted from the stations: Streeter Dr & Grand Ave, DuSable Lake Shore Dr & North Blvd and DuSable Lake Shore Dr & Monroe St. Since those stations are the most popular by casual riders.
+3) Casual riders show greater interest in the use of bicycles on Sundays and Mondays. It would be a good idea to have a rapprochement with them during these days.
 
